@@ -4,8 +4,8 @@ An exploratory data analysis done using Python on Spotify, the world's largest a
 
 ## Key insights from the data analysis
 
-Descriptive statistics such as count, mean, standard deviation, min, max, inter-quartile values of all the columns
-Top 10 most popular songs based on the popularity
+* Descriptive statistics such as count, mean, standard deviation, min, max, inter-quartile values of all the columns
+* Top 10 most popular songs based on the popularity
 Correlation heatmap between variables to identify strong linear relationships between variables and also to spot redundancy
 Relationship between loudness and energy using a scatter plot with a regression line
 Relationship between popularity and acousticness using a scatter plot with a regression line
