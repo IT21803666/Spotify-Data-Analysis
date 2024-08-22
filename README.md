@@ -2,7 +2,7 @@
 
 An exploratory data analysis done using Python on Spotify, the world's largest audio streaming platform. Python libraries such as NumPy, Pandas, Matplot and Seaborn was utilized during the analysis.
 
-##Key insights from the data analysis
+## Key insights from the data analysis
 
 Descriptive statistics such as count, mean, standard deviation, min, max, inter-quartile values of all the columns
 Top 10 most popular songs based on the popularity
@@ -15,6 +15,6 @@ Line plot showing how the duration of tracks (in milliseconds) changes over the 
 Barplot showing duration of songs in different genres
 Top 5 genres by popularity
 
-##Datasets links:
+## Datasets links:
 https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/version/3
 https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
